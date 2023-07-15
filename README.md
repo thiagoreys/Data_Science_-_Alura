@@ -1,5 +1,7 @@
 # Data_Science_-_Alura
-Curso de Ciência de Dados fornecido pelo equipe interdisciplinar da Alura. No curso, eu pude aprender:
+Curso de Ciência de Dados fornecido pelo equipe interdisciplinar da Alura.
+
+Durante o curso, pude aprender a:
 
 🧹 Limpar e Tratar Dados: Transformar dados brutos em conjuntos de dados limpos e confiáveis, garantindo a qualidade das informações.
 
