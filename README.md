@@ -9,4 +9,5 @@ Curso de Ciência de Dados fornecido pelo equipe interdisciplinar da Alura. No c
 
 🔀 Transformação e Manipulação de Dados: Transformação e manipulação dos dados para extrair insights valiosos e gerar informações úteis para a tomada de decisões.
 
+
 ![Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
