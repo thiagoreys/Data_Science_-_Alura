@@ -1,7 +1,7 @@
 # Data_Science_-_Alura
 Curso de Python aplicado a Ciência de Dados fornecido pelo equipe interdisciplinar da Alura.
 
-Durante o curso, pude aprender a:
+### Aprendizados
 
 🧹 Limpar e Tratar Dados: Transformar dados brutos em conjuntos de dados limpos e confiáveis, garantindo a qualidade das informações.
 
@@ -10,6 +10,14 @@ Durante o curso, pude aprender a:
 📂 Trabalhar com Diversidade de Arquivos: CSV, JSON, HTML, XML, Planilhas Excel e Banco de Dados SQL.
 
 🔀 Transformar e Manipular Dados: Manipulação dos dados para extrair insights valiosos e gerar informações úteis para a tomada de decisões.
+
+### Tecnologias Utilizadas
+
+- Pandas
+- Numpy
+- MySQL
+- SQLAlchemy
+  
 
 ---
 <p align="left">
