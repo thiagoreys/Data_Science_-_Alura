@@ -1,5 +1,5 @@
 # Data_Science_-_Alura
-Curso de Ciência de Dados fornecido pelo equipe interdisciplinar da Alura.
+Curso de Python aplicado a Ciência de Dados fornecido pelo equipe interdisciplinar da Alura.
 
 Durante o curso, pude aprender a:
 
@@ -11,4 +11,7 @@ Durante o curso, pude aprender a:
 
 🔀 Transformar e Manipular Dados: Manipulação dos dados para extrair insights valiosos e gerar informações úteis para a tomada de decisões.
 
-![Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
+---
+<p align="left">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
+</p>
