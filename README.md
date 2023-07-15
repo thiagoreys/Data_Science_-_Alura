@@ -1,7 +1,7 @@
 # Data_Science_-_Alura
 Curso de Ciência de Dados fornecido pelo equipe interdisciplinar da Alura. No curso, eu pude aprender:
 
-🧹 Limpat e Tratar Dados: Transformação de dados brutos em conjuntos de dados limpos e confiáveis, garantindo a qualidade das informações.
+🧹 Limpar e Tratar Dados: Transformar dados brutos em conjuntos de dados limpos e confiáveis, garantindo a qualidade das informações.
 
 🔍 Selecionar e Agrupar Dados: Agrupamento de dados de forma eficiente, permitindo a análise de padrões e tendências relevantes.
 
