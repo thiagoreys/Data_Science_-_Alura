@@ -17,6 +17,7 @@ Curso de Python aplicado a Ciência de Dados fornecido pelo equipe interdiscipli
 - Numpy
 - MySQL
 - SQLAlchemy
+- Matplotlib
   
 
 ---
